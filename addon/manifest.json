@@ -1,8 +1,10 @@
 {
-  "package": "valorant_streak",
-  "name": "Valorant Streak \u2014 sounds & timed combos",
+  "package": "streak_lab",
+  "name": "Streak Lab \u2014 timed rewards & sounds",
   "author": "PsychMajor",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "homepage": "https://github.com/PsychMajor/valorant-streak",
-  "conflicts": []
+  "conflicts": [
+    "valorant_streak"
+  ]
 }

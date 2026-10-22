@@ -1,47 +1,55 @@
-# Valorant Streak for Anki
+# Streak Lab for Anki
 
-Timed answer streaks, rising reward sounds, and a compact countdown for Anki desktop. Developed by PsychMajor.
+Build an answer streak with rising sounds, original emblems, and a shrinking countdown. Free, open-source, and entirely offline.
 
-## Release status
+![Settings](docs/settings.png)
 
-This repository contains the add-on's source code and tests. **An AnkiWeb release is not published yet.** Riot Games audio and artwork from the personal prototype are not included or licensed by this repository. The existing catalog describes that prototype's 28 collections; it is metadata, not a bundled sound pack. The source alone requires compatible local assets to run with audio and banners.
+## Install
 
-## What it does
+Download **Streak-Lab.ankiaddon** from [Releases](https://github.com/PsychMajor/valorant-streak/releases/latest). In Anki desktop, open **Tools → Add-ons → Install from file…**, choose the package, and restart. Then open **Tools → Streak Lab…** to choose your theme and timing.
 
-- Hard, Good, or Easy extends a streak. You can exclude Hard.
-- Each correct rating restarts a rolling deadline. Again or expiry resets it.
-- Accelerating mode reduces each window by 20% by default, with a floor of 25% of the starting window. Fixed mode keeps it constant.
-- Five reward stages; the fifth sound repeats while the counter continues past five.
-- Adjustable volume, banner placement, duration, and countdown.
-- Resets on undo, leaving reviews, opening settings, or closing a profile.
+Requires Anki desktop with Qt 6. Tested with Anki **26.8.1 on macOS** using its actual hooks and Qt libraries; other versions and operating systems have not been verified. Desktop add-ons do not run in AnkiMobile, AnkiDroid, or the AnkiWeb study interface. AnkiWeb hosts the download for desktop users.
 
-The timer measures time between ratings, including reading the question and viewing its answer. It uses your rating, not automated correctness detection. The shrinking window is a custom study mechanic, not a verified reproduction of Valorant's normal-round timing.
+If you have the personal Valorant Streak prototype, use only one version at a time to avoid duplicate effects. This public release has its own package ID and does not replace that prototype's files or settings.
 
-The add-on does not change cards, notes, scheduling, or card audio. It makes no network requests and requires no local server.
+## How it works
 
-## Compatibility
+Rate a card Hard, Good, or Easy to start a streak. Keep rating correctly before the countdown runs out to reach five reward stages. The fifth sound repeats for subsequent successes while the counter keeps growing. Again or an expired countdown resets it. Hard can be excluded in settings.
 
-Requires a Qt 6 build of Anki desktop. Tested with Anki 26.8.1's hooks and Qt libraries on macOS. Windows, Linux, and older versions have not been verified. Desktop add-ons do not run in AnkiMobile, AnkiDroid, or the AnkiWeb study interface.
+**Accelerating mode** starts with a 30-second window, then shortens each new window by 20%, down to 7.5 seconds. Both the starting time and shrink rate are adjustable. **Fixed mode** keeps the same window throughout.
 
-## Build with your own compatible assets
+The timer measures the gap between ratings, including reading the question and viewing the answer. Your own rating determines success; the add-on does not automatically grade answers. Rate honestly, even when a streak is on the line. Leaving reviews, undoing a rating, opening settings, or closing a profile resets the streak. Switching to another application does not pause the timer.
 
-Use only assets you have the rights to use. Supply a directory containing the files referenced by `addon/catalog.json`, or replace that catalog with your own collections using the same structure. Each collection needs an `id`, `name`, hex `color`, `banner` path, and five `sounds` entries with a `file` path. All asset paths must be below `assets/`.
+## Six original themes
+
+| Theme | Sound | Emblem |
+| --- | --- | --- |
+| Pulse | Crisp electronic impact | Waveform |
+| Prism | Bright bell tones | Faceted diamond |
+| Orbit | Soft modulated synth | Orbiting rings |
+| Ember | Warm harmonic tones | Flame |
+| Circuit | Arcade harmonics | Circuit |
+| Bloom | Gentle chimes | Flower |
+
+Each theme includes five sounds, for **30 original effects**. Adjust volume, popup duration, banner position, and countdown visibility, or disable rewards entirely. The add-on does not modify cards, notes, scheduling, or card audio. No server, account, telemetry, or network access is required.
+
+## Development and validation
 
 ```sh
 python3 -m unittest discover -s tests -v
-python3 scripts/build.py --assets /path/to/your/assets
+python3 scripts/build.py
 ```
 
-The build validates all catalog paths and produces `dist/Valorant-Streak.ankiaddon`. In Anki desktop, use **Tools → Add-ons → Install from file**, select the package, and restart. Open **Tools → Valorant Streak…** to configure it. Do not enable two copies of this add-on simultaneously.
+The resulting package is `dist/Streak-Lab.ankiaddon`. The build includes only the listed runtime files, license, and catalog-referenced assets; no caches, local preferences, or developer files. Asset paths must stay inside the assets directory.
 
-The build does not download game assets. Building a local package does not grant permission to redistribute third-party content.
+All sounds and vector art are generated from scratch by `scripts/generate_assets.py`, using Python's standard library. Run that script to reproduce the assets. There are no recordings, game samples, downloaded images, or third-party sound packs.
 
-## Development
+`addon/core.py` contains pure timing rules; `addon/__init__.py` integrates review hooks, Qt overlays, settings, and playback. Thirteen rule tests cover rolling deadlines, exact expiry, ratings, resets, accelerating windows, fifth-stage repeats, and invalid settings. An isolated Qt smoke test additionally checks settings, overlays, undo/reset hooks, all six emblems, and decoding all 30 WAV files. It does not open a personal Anki collection.
 
-`addon/core.py` contains pure timing rules; `addon/__init__.py` integrates review hooks, Qt overlays, settings, and audio. The test suite covers rolling deadlines, exact expiry, ratings, resets, accelerating windows, fifth-stage repeats, and invalid settings.
+To run `scripts/smoke_anki.py`, use a Python interpreter matching your installed Anki runtime and put its `app_packages` on `PYTHONPATH`; `QT_QPA_PLATFORM=offscreen` runs without displaying the test window.
 
-Report bugs using [GitHub Issues](https://github.com/PsychMajor/valorant-streak/issues), including your Anki version, operating system, and steps to reproduce. Do not attach your collection or private card content.
+Report bugs using [GitHub Issues](https://github.com/PsychMajor/valorant-streak/issues), including your Anki version, operating system, and steps to reproduce. Please do not attach your collection or private card content.
 
-## License and attribution
+## License and project history
 
-The code in this repository is licensed under GNU AGPL v3 or later; see LICENSE. This license does not apply to third-party sounds or artwork, which are excluded. VALORANT is a Riot Games trademark. This independent project is not affiliated with or endorsed by Riot Games or Ankitects.
+Code, generated sounds, and geometric artwork are licensed under **GNU AGPL v3 or later**; see LICENSE. The first source snapshot was a personal Valorant-inspired prototype, which explains the repository URL. The public Streak Lab package includes original assets and branding. It is not affiliated with Riot Games or Ankitects and does not reproduce verified game timing.

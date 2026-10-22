@@ -2,7 +2,7 @@
 import math
 
 DEFAULTS = {
-    'enabled': True, 'collection': 'reaver', 'window_seconds': 30,
+    'enabled': True, 'collection': 'pulse', 'window_seconds': 30,
     'count_hard': True, 'volume': 50, 'popup_seconds': 1.8,
     'show_countdown': True, 'position': 'bottom_center',
     'timing_mode': 'accelerating', 'shrink_percent': 20,
@@ -33,10 +33,10 @@ def settings(raw=None):
 
 
 def window_for_count(count, base, shrink_percent=0, minimum_percent=25):
-    """Custom study pacing, not a verified reproduction of Valorant's timers.
+    """Configurable rolling deadlines for successive review ratings.
 
     Count 1 creates the full window for answer 2. Count 5 creates the
-    window for the first ace repeat. Later repeats keep shrinking to a floor.
+    window for the first fifth-stage repeat. Later repeats keep shrinking to a floor.
     """
     floor = base * minimum_percent / 100.
     return max(floor, base * (1 - shrink_percent / 100.) ** max(0, min(count - 1, 10000)))

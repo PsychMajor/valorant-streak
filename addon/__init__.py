@@ -1,4 +1,4 @@
-"""Valorant Streak: local, configurable reward overlay for Anki desktop (Qt 6)."""
+"""Streak Lab: local, configurable reward overlay for Anki desktop (Qt 6)."""
 from __future__ import annotations
 
 import json
@@ -17,14 +17,14 @@ from aqt.utils import tooltip
 from .core import Streak, settings, window_for_count
 
 ROOT = Path(__file__).resolve().parent
-TITLES = ('FIRST BLOOD', 'DOUBLE KILL', 'TRIPLE KILL', 'QUADRA KILL', 'ACE')
+TITLES = ('FIRST SPARK', 'DOUBLE', 'TRIPLE', 'ON FIRE', 'FIVE ALIVE')
 MODULE = __name__
 
 
 class RewardOverlay(QFrame):
     def __init__(self, parent):
         super().__init__(parent)
-        self.setObjectName('valorantReward')
+        self.setObjectName('streakLabReward')
         self.setAttribute(Qt.WidgetAttribute.WA_TransparentForMouseEvents)
         self.setFocusPolicy(Qt.FocusPolicy.NoFocus)
         layout = QVBoxLayout(self)
@@ -54,7 +54,7 @@ class RewardOverlay(QFrame):
     def theme(self, pack):
         color = pack['color']
         self.setStyleSheet(
-            'QFrame#valorantReward {background: #111c25; border: 1px solid '+color+'; border-radius: 10px;}'
+            'QFrame#streakLabReward {background: #111c25; border: 1px solid '+color+'; border-radius: 10px;}'
             'QLabel {background: transparent; border: none;}'
             'QProgressBar {background: #34434e; border: none; border-radius: 2px;}'
             'QProgressBar::chunk {background: '+color+'; border-radius: 2px;}'
@@ -116,7 +116,7 @@ class Controller:
         self.player = self.audio_output = None
         self.audio_warned = False
         window.installEventFilter(self.overlay)
-        self.action = QAction('Valorant Streak…', window)
+        self.action = QAction('Streak Lab…', window)
         self.action.triggered.connect(self.open_settings)
         window.form.menuTools.addAction(self.action)
         window.addonManager.setConfigAction(MODULE, self.open_settings)
@@ -140,7 +140,7 @@ class Controller:
     def audio_error(self, *_):
         if not self.audio_warned:
             self.audio_warned = True
-            tooltip('Valorant Streak: sound could not play. Try another collection in Tools → Valorant Streak.', parent=self.mw)
+            tooltip('Streak Lab: sound could not play. Try another collection in Tools → Streak Lab.', parent=self.mw)
 
     def play(self, pack, kill, volume=None):
         level = self.config['volume'] if volume is None else volume
@@ -181,7 +181,7 @@ class Controller:
         if now >= self.popup_until:
             if self.config['show_countdown']:
                 self.overlay.compact(self.config)
-                target = 'repeat ACE' if self.streak.count >= 5 else f'reach kill {self.streak.count + 1}'
+                target = 'repeat stage 5' if self.streak.count >= 5 else f'reach stage {self.streak.count + 1}'
                 self.overlay.detail.setText(f'{self.streak.count} streak · {remaining:.1f}s to {target}')
             else:
                 self.overlay.hide()
@@ -210,13 +210,13 @@ class Controller:
         self.reset()
         dialog = QDialog(self.mw)
         self.dialog = dialog
-        dialog.setWindowTitle('Valorant Streak')
+        dialog.setWindowTitle('Streak Lab')
         dialog.setMinimumWidth(440)
         layout = QVBoxLayout(dialog)
         title = QLabel('Make every right answer count.', dialog)
         title.setStyleSheet('font-size: 20px; font-weight: 700; margin-bottom: 8px;')
         layout.addWidget(title)
-        description = QLabel('Keep answering before the timer expires to build your streak.\nAccelerating mode tightens the window, even after an ace.', dialog)
+        description = QLabel('Keep answering before the timer expires to build your streak.\nAccelerating mode tightens the window, even after stage five.', dialog)
         layout.addWidget(description)
         form = QFormLayout()
         enabled = QCheckBox('Enable sounds and streak banners', dialog)
@@ -265,7 +265,7 @@ class Controller:
             before = ' → '.join(f'{value:.1f}s' for value in windows[:4])
             after = ' → '.join(f'{value:.1f}s' for value in windows[4:])
             floor = seconds.value() * minimum.value() / 100 if accelerating else seconds.value()
-            schedule.setText(f'To kills 2 / 3 / 4 / 5: {before}\nAfter ace, for repeats: {after}… (floor {floor:.1f}s)')
+            schedule.setText(f'To stages 2 / 3 / 4 / 5: {before}\nAfter stage five: {after}… (floor {floor:.1f}s)')
 
         mode.currentIndexChanged.connect(update_schedule)
         for control in (seconds, shrink, minimum):
@@ -301,7 +301,7 @@ class Controller:
         preview = QLabel(dialog)
         preview.setAlignment(Qt.AlignmentFlag.AlignCenter)
         preview.setFixedHeight(90)
-        preview_title = QLabel('Preview a kill sound', dialog)
+        preview_title = QLabel('Preview a reward sound', dialog)
         preview_title.setAlignment(Qt.AlignmentFlag.AlignCenter)
         layout.addWidget(preview)
         layout.addWidget(preview_title)
@@ -309,7 +309,7 @@ class Controller:
         def update_preview():
             pack = self.pack(collection.currentData())
             preview.setPixmap(QPixmap(str(ROOT / pack['banner'])).scaled(145, 86, Qt.AspectRatioMode.KeepAspectRatio, Qt.TransformationMode.SmoothTransformation))
-            preview_title.setText(pack['name'] + ' · preview a kill sound')
+            preview_title.setText(pack['name'] + ' · preview a reward sound')
             if self.player:
                 self.player.stop()
 
@@ -327,7 +327,7 @@ class Controller:
             button.clicked.connect(lambda checked=False, k=kill: audition(k))
             row.addWidget(button)
         layout.addLayout(row)
-        note = QLabel('The fifth sound repeats at 5+. Expiry or Again resets to kill 1.\nAccelerating timing is a study adaptation, not verified game timing.\nAudio & artwork © Riot Games · unofficial personal add-on.', dialog)
+        note = QLabel('The fifth sound repeats at 5+. Expiry or Again resets to stage 1.\nSix original sound themes. Keep your ratings honest.\nOriginal sounds and artwork · AGPL-3.0-or-later.', dialog)
         note.setStyleSheet('font-size: 11px; color: #87939c; margin-top: 8px;')
         layout.addWidget(note)
         buttons = QDialogButtonBox(QDialogButtonBox.StandardButton.Save | QDialogButtonBox.StandardButton.Cancel, parent=dialog)

@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "collection": "reaver",
+  "collection": "pulse",
   "window_seconds": 30,
   "count_hard": true,
   "volume": 50,

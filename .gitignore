@@ -3,7 +3,6 @@ __pycache__/
 .DS_Store
 .venv/
 dist/
-addon/assets/
 *.ankiaddon
 meta.json
 user_files/
