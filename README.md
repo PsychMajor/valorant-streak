@@ -6,7 +6,9 @@ Build an answer streak with rising sounds, original emblems, and a shrinking cou
 
 ## Install
 
-Download **Streak-Lab.ankiaddon** from [Releases](https://github.com/PsychMajor/valorant-streak/releases/latest). In Anki desktop, open **Tools → Add-ons → Install from file…**, choose the package, and restart. Then open **Tools → Streak Lab…** to choose your theme and timing.
+Install from [AnkiWeb](https://ankiweb.net/shared/info/527989666): in Anki desktop, open **Tools → Add-ons → Get Add-ons**, paste **527989666**, and restart. The listing supports Anki **26.08.1 and newer**.
+
+Alternatively, download **Streak-Lab.ankiaddon** from [Releases](https://github.com/PsychMajor/valorant-streak/releases/latest). In Anki desktop, open **Tools → Add-ons → Install from file…**, choose the package, and restart. Then open **Tools → Streak Lab…** to choose your theme and timing.
 
 Requires Anki desktop with Qt 6. Tested with Anki **26.8.1 on macOS** using its actual hooks and Qt libraries; other versions and operating systems have not been verified. Desktop add-ons do not run in AnkiMobile, AnkiDroid, or the AnkiWeb study interface. AnkiWeb hosts the download for desktop users.
 
