@@ -1,0 +1,2107 @@
+{
+  "packs": [
+    {
+      "id": "reaver",
+      "name": "Reaver",
+      "color": "#b29aff",
+      "banner": "assets/Reaver_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Reaver_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Reaver_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Reaver_Kill_1.mp3?d40e6",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Reaver_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Reaver_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Reaver_Kill_2.mp3?d40e6",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Reaver_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Reaver_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Reaver_Kill_3.mp3?d40e6",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Reaver_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Reaver_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Reaver_Kill_4.mp3?d40e6",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Reaver_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Reaver_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Reaver_Kill_5.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Reaver_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "prime",
+      "name": "Prime",
+      "color": "#e9c977",
+      "banner": "assets/Prime_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Prime_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Prime_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Prime_Kill_1.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Prime_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Prime_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Prime_Kill_2.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Prime_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Prime_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Prime_Kill_3.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Prime_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Prime_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Prime_Kill_4.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Prime_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Prime_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Prime_Kill_5.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Prime_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "kuronami",
+      "name": "Kuronami",
+      "color": "#83d9ed",
+      "banner": "assets/Kuronami_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Kuronami_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Kuronami_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Kuronami_Kill_1.mp3?7e9be",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Kuronami_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Kuronami_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Kuronami_Kill_2.mp3?bd202",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Kuronami_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Kuronami_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Kuronami_Kill_3.mp3?0e365",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Kuronami_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Kuronami_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Kuronami_Kill_4.mp3?25429",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Kuronami_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Kuronami_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Kuronami_Kill_5.mp3?9ac5f",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Kuronami_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "oni",
+      "name": "Oni",
+      "color": "#ed8b87",
+      "banner": "assets/Oni_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Oni_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Oni_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Oni_Kill_1.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Oni_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Oni_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Oni_Kill_2.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Oni_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Oni_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Oni_Kill_3.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Oni_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Oni_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Oni_Kill_4.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Oni_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Oni_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Oni_Kill_5.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Oni_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "rgx_11z_pro",
+      "name": "RGX 11z Pro",
+      "color": "#a5eb82",
+      "banner": "assets/RGX_11z_Pro_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/RGX_11z_Pro_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/RGX_11z_Pro_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/RGX_11z_Pro_Kill_1.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:RGX_11z_Pro_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/RGX_11z_Pro_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/RGX_11z_Pro_Kill_2.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:RGX_11z_Pro_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/RGX_11z_Pro_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/RGX_11z_Pro_Kill_3.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:RGX_11z_Pro_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/RGX_11z_Pro_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/RGX_11z_Pro_Kill_4.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:RGX_11z_Pro_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/RGX_11z_Pro_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/RGX_11z_Pro_Kill_5.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:RGX_11z_Pro_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "araxys",
+      "name": "Araxys",
+      "color": "#dcac88",
+      "banner": "assets/Araxys_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Araxys_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Araxys_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Araxys_Kill_1.mp3?3145e",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Araxys_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Araxys_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Araxys_Kill_2.mp3?9910c",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Araxys_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Araxys_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Araxys_Kill_3.mp3?9910c",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Araxys_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Araxys_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Araxys_Kill_4.mp3?9910c",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Araxys_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Araxys_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Araxys_Kill_5.mp3?833df",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Araxys_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "prelude_to_chaos",
+      "name": "Prelude to Chaos",
+      "color": "#b898ea",
+      "banner": "assets/Prelude_to_Chaos_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Prelude_to_Chaos_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Prelude_to_Chaos_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Prelude_to_Chaos_Kill_1.mp3?8bde2",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Prelude_to_Chaos_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Prelude_to_Chaos_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Prelude_to_Chaos_Kill_2.mp3?efcec",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Prelude_to_Chaos_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Prelude_to_Chaos_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Prelude_to_Chaos_Kill_3.mp3?efcec",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Prelude_to_Chaos_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Prelude_to_Chaos_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Prelude_to_Chaos_Kill_4.mp3?efcec",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Prelude_to_Chaos_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Prelude_to_Chaos_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Prelude_to_Chaos_Kill_5.mp3?efcec",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Prelude_to_Chaos_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "base",
+      "name": "Default",
+      "color": "#dce6e9",
+      "banner": "assets/Base_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Kill_Banners",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Base_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Base_Kill_1.mp3?a979a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Base_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Base_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Base_Kill_2.mp3?406a3",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Base_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Base_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Base_Kill_3.mp3?0019b",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Base_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Base_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Base_Kill_4.mp3?9cc39",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Base_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Base_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Base_Kill_5.mp3?46037",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Base_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "ion",
+      "name": "Ion",
+      "color": "#a9e9fc",
+      "banner": "assets/Ion_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Ion_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Ion_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Ion_Kill_1.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Ion_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Ion_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Ion_Kill_2.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Ion_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Ion_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Ion_Kill_3.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Ion_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Ion_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Ion_Kill_4.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Ion_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Ion_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Ion_Kill_5.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Ion_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "glitchpop",
+      "name": "Glitchpop",
+      "color": "#e58ef8",
+      "banner": "assets/Glitchpop_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Glitchpop_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Glitchpop_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Glitchpop_Kill_1.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Glitchpop_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Glitchpop_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Glitchpop_Kill_2.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Glitchpop_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Glitchpop_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Glitchpop_Kill_3.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Glitchpop_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Glitchpop_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Glitchpop_Kill_4.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Glitchpop_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Glitchpop_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Glitchpop_Kill_5.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Glitchpop_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "recon",
+      "name": "Recon",
+      "color": "#b4c49e",
+      "banner": "assets/Recon_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Recon_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Recon_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Recon_Kill_1.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Recon_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Recon_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Recon_Kill_2.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Recon_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Recon_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Recon_Kill_3.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Recon_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Recon_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Recon_Kill_4.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Recon_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Recon_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Recon_Kill_5.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Recon_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "spectrum",
+      "name": "Spectrum",
+      "color": "#f0b6ed",
+      "banner": "assets/Spectrum_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Spectrum_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Spectrum_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Spectrum_Kill_1.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Spectrum_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Spectrum_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Spectrum_Kill_2.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Spectrum_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Spectrum_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Spectrum_Kill_3.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Spectrum_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Spectrum_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Spectrum_Kill_4.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Spectrum_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Spectrum_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Spectrum_Kill_5.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Spectrum_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "gaia's_vengeance",
+      "name": "Gaia's Vengeance",
+      "color": "#f3a49c",
+      "banner": "assets/Gaia's_Vengeance_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Gaia%27s_Vengeance_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Gaia's_Vengeance_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Gaia%27s_Vengeance_Kill_1.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Gaia%27s_Vengeance_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Gaia's_Vengeance_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Gaia%27s_Vengeance_Kill_2.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Gaia%27s_Vengeance_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Gaia's_Vengeance_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Gaia%27s_Vengeance_Kill_3.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Gaia%27s_Vengeance_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Gaia's_Vengeance_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Gaia%27s_Vengeance_Kill_4.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Gaia%27s_Vengeance_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Gaia's_Vengeance_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Gaia%27s_Vengeance_Kill_5.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Gaia%27s_Vengeance_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sovereign",
+      "name": "Sovereign",
+      "color": "#f1dc9a",
+      "banner": "assets/Sovereign_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Sovereign_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Sovereign_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Sovereign_Kill_1.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Sovereign_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Sovereign_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Sovereign_Kill_2.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Sovereign_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Sovereign_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Sovereign_Kill_3.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Sovereign_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Sovereign_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Sovereign_Kill_4.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Sovereign_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Sovereign_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Sovereign_Kill_5.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Sovereign_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "forsaken",
+      "name": "Forsaken",
+      "color": "#8de0ba",
+      "banner": "assets/Forsaken_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Forsaken_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Forsaken_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Forsaken_Kill_1.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Forsaken_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Forsaken_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Forsaken_Kill_2.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Forsaken_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Forsaken_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Forsaken_Kill_3.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Forsaken_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Forsaken_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Forsaken_Kill_4.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Forsaken_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Forsaken_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Forsaken_Kill_5.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Forsaken_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "elderflame",
+      "name": "Elderflame",
+      "color": "#ffa57b",
+      "banner": "assets/Elderflame_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Elderflame_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Elderflame_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Elderflame_Kill_1.mp3?46194",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Elderflame_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Elderflame_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Elderflame_Kill_2.mp3?46194",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Elderflame_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Elderflame_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Elderflame_Kill_3.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Elderflame_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Elderflame_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Elderflame_Kill_4.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Elderflame_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Elderflame_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Elderflame_Kill_5.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Elderflame_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "singularity",
+      "name": "Singularity",
+      "color": "#b59aef",
+      "banner": "assets/Singularity_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Singularity_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Singularity_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Singularity_Kill_1.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Singularity_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Singularity_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Singularity_Kill_2.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Singularity_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Singularity_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Singularity_Kill_3.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Singularity_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Singularity_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Singularity_Kill_4.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Singularity_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Singularity_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Singularity_Kill_5.mp3?25f34",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Singularity_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "sentinels_of_light",
+      "name": "Sentinels of Light",
+      "color": "#e3d7a5",
+      "banner": "assets/Sentinels_of_Light_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Sentinels_of_Light_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Sentinels_of_Light_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Sentinels_of_Light_Kill_1.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Sentinels_of_Light_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Sentinels_of_Light_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Sentinels_of_Light_Kill_2.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Sentinels_of_Light_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Sentinels_of_Light_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Sentinels_of_Light_Kill_3.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Sentinels_of_Light_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Sentinels_of_Light_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Sentinels_of_Light_Kill_4.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Sentinels_of_Light_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Sentinels_of_Light_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Sentinels_of_Light_Kill_5.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Sentinels_of_Light_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "ruination",
+      "name": "Ruination",
+      "color": "#8cdcc8",
+      "banner": "assets/Ruination_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Ruination_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Ruination_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Ruination_Kill_1.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Ruination_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Ruination_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Ruination_Kill_2.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Ruination_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Ruination_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Ruination_Kill_3.mp3?12c68",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Ruination_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Ruination_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Ruination_Kill_4.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Ruination_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Ruination_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Ruination_Kill_5.mp3?c8dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Ruination_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "chronovoid",
+      "name": "ChronoVoid",
+      "color": "#dfbca0",
+      "banner": "assets/ChronoVoid_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/ChronoVoid_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/ChronoVoid_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/ChronoVoid_Kill_1.mp3?24c8e",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:ChronoVoid_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/ChronoVoid_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/ChronoVoid_Kill_2.mp3?a735e",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:ChronoVoid_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/ChronoVoid_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/ChronoVoid_Kill_3.mp3?a735e",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:ChronoVoid_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/ChronoVoid_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/ChronoVoid_Kill_4.mp3?a735e",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:ChronoVoid_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/ChronoVoid_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/ChronoVoid_Kill_5.mp3?cf593",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:ChronoVoid_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "neptune",
+      "name": "Neptune",
+      "color": "#87cce9",
+      "banner": "assets/Neptune_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Neptune_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Neptune_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Neptune_Kill_1.mp3?a9af2",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Neptune_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Neptune_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Neptune_Kill_2.mp3?e659c",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Neptune_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Neptune_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Neptune_Kill_3.mp3?e659c",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Neptune_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Neptune_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Neptune_Kill_4.mp3?e659c",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Neptune_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Neptune_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Neptune_Kill_5.mp3?e659c",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Neptune_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "magepunk",
+      "name": "Magepunk",
+      "color": "#d6b087",
+      "banner": "assets/Magepunk_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Magepunk_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Magepunk_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Magepunk_Kill_1.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Magepunk_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Magepunk_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Magepunk_Kill_2.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Magepunk_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Magepunk_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Magepunk_Kill_3.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Magepunk_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Magepunk_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Magepunk_Kill_4.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Magepunk_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Magepunk_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Magepunk_Kill_5.mp3?a0f65",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Magepunk_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "champions_2021",
+      "name": "Champions 2021",
+      "color": "#e9cb7a",
+      "banner": "assets/Champions_2021_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Champions_2021_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Champions_2021_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Champions_2021_Kill_1.mp3?46194",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Champions_2021_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Champions_2021_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Champions_2021_Kill_2.mp3?46194",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Champions_2021_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Champions_2021_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Champions_2021_Kill_3.mp3?46194",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Champions_2021_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Champions_2021_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Champions_2021_Kill_4.mp3?46194",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Champions_2021_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Champions_2021_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Champions_2021_Kill_5.mp3?24454",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Champions_2021_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "champions_2024",
+      "name": "Champions 2024",
+      "color": "#d0a4ef",
+      "banner": "assets/Champions_2024_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Champions_2024_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Champions_2024_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Champions_2024_Kill_1.mp3?74f24",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Champions_2024_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Champions_2024_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Champions_2024_Kill_2.mp3?caf2d",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Champions_2024_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Champions_2024_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Champions_2024_Kill_3.mp3?a1c4b",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Champions_2024_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Champions_2024_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Champions_2024_Kill_4.mp3?091b1",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Champions_2024_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Champions_2024_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Champions_2024_Kill_5.mp3?3c16d",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Champions_2024_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "evori_dreamwings",
+      "name": "Evori Dreamwings",
+      "color": "#e6b0ec",
+      "banner": "assets/Evori_Dreamwings_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Evori_Dreamwings_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Evori_Dreamwings_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Evori_Dreamwings_Kill_1.mp3?82d21",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Evori_Dreamwings_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Evori_Dreamwings_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Evori_Dreamwings_Kill_2.mp3?60b06",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Evori_Dreamwings_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Evori_Dreamwings_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Evori_Dreamwings_Kill_3.mp3?7e4dd",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Evori_Dreamwings_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Evori_Dreamwings_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Evori_Dreamwings_Kill_4.mp3?71b29",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Evori_Dreamwings_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Evori_Dreamwings_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Evori_Dreamwings_Kill_5.mp3?f2077",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Evori_Dreamwings_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "mystbloom",
+      "name": "Mystbloom",
+      "color": "#f2b8d7",
+      "banner": "assets/Mystbloom_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Mystbloom_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Mystbloom_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Mystbloom_Kill_1.mp3?de93e",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Mystbloom_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Mystbloom_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Mystbloom_Kill_2.mp3?cae48",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Mystbloom_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Mystbloom_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Mystbloom_Kill_3.mp3?4573c",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Mystbloom_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Mystbloom_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Mystbloom_Kill_4.mp3?62b06",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Mystbloom_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Mystbloom_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Mystbloom_Kill_5.mp3?97d30",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Mystbloom_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "neo_frontier",
+      "name": "Neo Frontier",
+      "color": "#c3a58d",
+      "banner": "assets/Neo_Frontier_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Neo_Frontier_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Neo_Frontier_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Neo_Frontier_Kill_1.mp3?05dfb",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Neo_Frontier_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Neo_Frontier_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Neo_Frontier_Kill_2.mp3?21018",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Neo_Frontier_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Neo_Frontier_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Neo_Frontier_Kill_3.mp3?21018",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Neo_Frontier_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Neo_Frontier_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Neo_Frontier_Kill_4.mp3?21018",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Neo_Frontier_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Neo_Frontier_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Neo_Frontier_Kill_5.mp3?21018",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Neo_Frontier_Kill_5.mp3"
+        }
+      ]
+    },
+    {
+      "id": "origin",
+      "name": "Origin",
+      "color": "#a3e3d4",
+      "banner": "assets/Origin_banner.png",
+      "source": "https://wiki.playvalorant.com/en-us/Origin_Collection",
+      "sounds": [
+        {
+          "kill": 1,
+          "file": "assets/Origin_Kill_1.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Origin_Kill_1.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Origin_Kill_1.mp3"
+        },
+        {
+          "kill": 2,
+          "file": "assets/Origin_Kill_2.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Origin_Kill_2.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Origin_Kill_2.mp3"
+        },
+        {
+          "kill": 3,
+          "file": "assets/Origin_Kill_3.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Origin_Kill_3.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Origin_Kill_3.mp3"
+        },
+        {
+          "kill": 4,
+          "file": "assets/Origin_Kill_4.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Origin_Kill_4.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Origin_Kill_4.mp3"
+        },
+        {
+          "kill": 5,
+          "file": "assets/Origin_Kill_5.mp3",
+          "source": "https://wiki.playvalorant.com/en-us/images/Origin_Kill_5.mp3?94d2a",
+          "sourcePage": "https://wiki.playvalorant.com/en-us/File:Origin_Kill_5.mp3"
+        }
+      ]
+    }
+  ],
+  "credit": "VALORANT audio and artwork \u00a9 Riot Games. Sourced from the community VALORANT Wiki. Unofficial local preview.",
+  "files": [
+    {
+      "file": "assets/Reaver_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Reaver_Kill_1.mp3?d40e6",
+      "bytes": 40722,
+      "sha256": "79b4efd3696fa3b7850baab66e6dc848182d64061e30a0997ddb44272268d00f"
+    },
+    {
+      "file": "assets/Reaver_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Reaver_Kill_2.mp3?d40e6",
+      "bytes": 41088,
+      "sha256": "1ed9922c3ae675c8185e4583d16be7b726dd6e4998a45c96e462d2e8f8c6db0a"
+    },
+    {
+      "file": "assets/Reaver_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Reaver_Kill_3.mp3?d40e6",
+      "bytes": 41453,
+      "sha256": "8da1ba5db139ab99562049c7f3d87561b88ad2123c6b52751cb986ae691a2884"
+    },
+    {
+      "file": "assets/Reaver_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Reaver_Kill_4.mp3?d40e6",
+      "bytes": 39991,
+      "sha256": "355cb7710f94d25053e26f39789f322efff12d66d6d2b72ce6b86a5912f29e40"
+    },
+    {
+      "file": "assets/Reaver_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Reaver_Kill_5.mp3?12c68",
+      "bytes": 150436,
+      "sha256": "c7338a217a45dd1a4f470521af0c708f7a170a863d921d570b3343244b6ea9b3"
+    },
+    {
+      "file": "assets/Reaver_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Reaver_Kill_Banner.png/150px-Reaver_Kill_Banner.png?48780",
+      "bytes": 10648,
+      "sha256": "2f0ace688c92457da2d5e5df8222f2cca37d03d0c8d36636a24b66e6786c015e"
+    },
+    {
+      "file": "assets/Prime_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Prime_Kill_1.mp3?94d2a",
+      "bytes": 29019,
+      "sha256": "4deacc73a04f2a97f7366333655efeea1893377a96c25387ec502c8216df7e4b"
+    },
+    {
+      "file": "assets/Prime_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Prime_Kill_2.mp3?94d2a",
+      "bytes": 31579,
+      "sha256": "34110780fe811cf170ce06f5adcf8c9525a88d8a66ebdd3d856a4843f87fd922"
+    },
+    {
+      "file": "assets/Prime_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Prime_Kill_3.mp3?94d2a",
+      "bytes": 31579,
+      "sha256": "1799c3dee7d622fc5a8c55eb413ee7f51007f2bf57788303f61f5a220b36e046"
+    },
+    {
+      "file": "assets/Prime_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Prime_Kill_4.mp3?94d2a",
+      "bytes": 33773,
+      "sha256": "477194cee7a60b09bb041eca07353d1e877d82089632d525ba6fd5f751a5e648"
+    },
+    {
+      "file": "assets/Prime_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Prime_Kill_5.mp3?94d2a",
+      "bytes": 78025,
+      "sha256": "d8c81d5854c9e2c31364962a86992cd881148cde1319d8c113f61871684a6ab8"
+    },
+    {
+      "file": "assets/Prime_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Prime_Kill_Banner.png/150px-Prime_Kill_Banner.png?4a914",
+      "bytes": 11385,
+      "sha256": "8ee2ccf78a229e53bcf69c1694622c496540b4bac46a2bc3e42cb8747b76a73f"
+    },
+    {
+      "file": "assets/Kuronami_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Kuronami_Kill_1.mp3?7e9be",
+      "bytes": 88437,
+      "sha256": "54e0d98bb3e75473ed6055499a36b63dc1393a149f4222a0e80e69b2e1987a3e"
+    },
+    {
+      "file": "assets/Kuronami_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Kuronami_Kill_2.mp3?bd202",
+      "bytes": 86733,
+      "sha256": "d71023c45f9006e7d0cc459aa48f1b3ca34175b6d4381fb7273254f6a18d92b6"
+    },
+    {
+      "file": "assets/Kuronami_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Kuronami_Kill_3.mp3?0e365",
+      "bytes": 88413,
+      "sha256": "52317fe1abf113ec44d80dbbc5f89a1e31c609e2ece9e808a4a1a464dd53d358"
+    },
+    {
+      "file": "assets/Kuronami_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Kuronami_Kill_4.mp3?25429",
+      "bytes": 85869,
+      "sha256": "fe0f40a69eae407d96e0fd38299911b5058527a469435d6b3b3567ceee215015"
+    },
+    {
+      "file": "assets/Kuronami_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Kuronami_Kill_5.mp3?9ac5f",
+      "bytes": 181101,
+      "sha256": "20ff468c52288fecf78061372d7e77535bace2231f0579a455798ee7f97316be"
+    },
+    {
+      "file": "assets/Kuronami_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Kuronami_Kill_Banner.png/150px-Kuronami_Kill_Banner.png?d37f8",
+      "bytes": 14088,
+      "sha256": "aca8a2ed3d7f6f3f6321426abbd4aa54e606d06a016140162d6aed556174cb49"
+    },
+    {
+      "file": "assets/Oni_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Oni_Kill_1.mp3?a0f65",
+      "bytes": 38162,
+      "sha256": "e59b1778d9af347f77ac5a43a6c759d4721a38c3c6d28ff3d3ff5a7b73457706"
+    },
+    {
+      "file": "assets/Oni_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Oni_Kill_2.mp3?a0f65",
+      "bytes": 44745,
+      "sha256": "64ae109b7f33de0173372bb4d44927223799de189e5d774bfde03281787c6e17"
+    },
+    {
+      "file": "assets/Oni_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Oni_Kill_3.mp3?a0f65",
+      "bytes": 50962,
+      "sha256": "8f5990f1e1c0b4d7c61345653e01933af5362a189441ee9a5709fc3042e1d9ec"
+    },
+    {
+      "file": "assets/Oni_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Oni_Kill_4.mp3?94d2a",
+      "bytes": 40722,
+      "sha256": "36190552ab69bd58d0f5148b8e322ee301c28f3eda828df26f69ba4d4f6a363f"
+    },
+    {
+      "file": "assets/Oni_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Oni_Kill_5.mp3?94d2a",
+      "bytes": 56082,
+      "sha256": "52f5557871574628b025faee2cf41c5c6ad07634622f3b83bec33f6091c990cb"
+    },
+    {
+      "file": "assets/Oni_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Oni_Kill_Banner.png/150px-Oni_Kill_Banner.png?4a914",
+      "bytes": 12511,
+      "sha256": "626b56bfdbaa4fe5f6acd0f39d233b0006ea84829b3f9bfb99e414c1c3e3fcb6"
+    },
+    {
+      "file": "assets/RGX_11z_Pro_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/RGX_11z_Pro_Kill_1.mp3?12c68",
+      "bytes": 28653,
+      "sha256": "9ecb9bc116742ab653d8ee3f39e5b46475543c79a6954beaf38cb6c6b7608e3c"
+    },
+    {
+      "file": "assets/RGX_11z_Pro_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/RGX_11z_Pro_Kill_2.mp3?12c68",
+      "bytes": 29385,
+      "sha256": "9a5488cbf2392c48e648de2f0b5a7a1a3d14df7a315db3813dc67b46fba4b1ff"
+    },
+    {
+      "file": "assets/RGX_11z_Pro_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/RGX_11z_Pro_Kill_3.mp3?12c68",
+      "bytes": 29385,
+      "sha256": "e01f02e57b97c8cfa80baa17166a923554b57ba3b1473bd716a24ae3dea05392"
+    },
+    {
+      "file": "assets/RGX_11z_Pro_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/RGX_11z_Pro_Kill_4.mp3?12c68",
+      "bytes": 27556,
+      "sha256": "f524c5171a69710c5179452ea2a4180b068fcae2851e10a70f4a71cfc588ea68"
+    },
+    {
+      "file": "assets/RGX_11z_Pro_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/RGX_11z_Pro_Kill_5.mp3?12c68",
+      "bytes": 60836,
+      "sha256": "95471a04428b3a1375ffefd7287d23faa835dc3ade3514d6467688dd0d38e340"
+    },
+    {
+      "file": "assets/RGX_11z_Pro_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/RGX_11z_Pro_Kill_Banner.png/150px-RGX_11z_Pro_Kill_Banner.png?17354",
+      "bytes": 19088,
+      "sha256": "4e2b1b14806fd5240596b8e738d030eb76212588a92a38e72d0e4cabfb05eb1f"
+    },
+    {
+      "file": "assets/Araxys_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Araxys_Kill_1.mp3?3145e",
+      "bytes": 39541,
+      "sha256": "ccb56f805c2af866026ae220171c256422bd980a3efce0892838452f89e95e89"
+    },
+    {
+      "file": "assets/Araxys_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Araxys_Kill_2.mp3?9910c",
+      "bytes": 37660,
+      "sha256": "3d104c95a5434c842b7036c2f888071d0b48166d5285717dbefc367aeda13e69"
+    },
+    {
+      "file": "assets/Araxys_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Araxys_Kill_3.mp3?9910c",
+      "bytes": 33271,
+      "sha256": "9893877db917f15a0fa1a26a949d9bcd6d401cee2ee4d891b375dd5396121481"
+    },
+    {
+      "file": "assets/Araxys_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Araxys_Kill_4.mp3?9910c",
+      "bytes": 37660,
+      "sha256": "8b8132ffca0a7613984e468e50ea6a5ed6cbaeafad4b64dae2e21a75a20b8817"
+    },
+    {
+      "file": "assets/Araxys_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Araxys_Kill_5.mp3?833df",
+      "bytes": 104115,
+      "sha256": "710dfbf551c435a6ae254d2fa1f66d57c581cf8cf0a6d2e1f6bdd4da9f1bac88"
+    },
+    {
+      "file": "assets/Araxys_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Araxys_Kill_Banner.png/150px-Araxys_Kill_Banner.png?b1fed",
+      "bytes": 9871,
+      "sha256": "048dfc602f7ef328024e3df0117dbc3dfa5b8bd1608abd410a46d46715b85097"
+    },
+    {
+      "file": "assets/Prelude_to_Chaos_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Prelude_to_Chaos_Kill_1.mp3?8bde2",
+      "bytes": 44013,
+      "sha256": "a654d560942e8f67d5a4bbf00430790a43398df497b39dfca1167e5a1a32ee61"
+    },
+    {
+      "file": "assets/Prelude_to_Chaos_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Prelude_to_Chaos_Kill_2.mp3?efcec",
+      "bytes": 44013,
+      "sha256": "89ad46402da9a20bda55e6e984378f48af42d3af5ab6768edf9eded608c426e8"
+    },
+    {
+      "file": "assets/Prelude_to_Chaos_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Prelude_to_Chaos_Kill_3.mp3?efcec",
+      "bytes": 44013,
+      "sha256": "3b1b7016307c926f9215ba485b142a328470f424576f8056872638835fd2eb25"
+    },
+    {
+      "file": "assets/Prelude_to_Chaos_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Prelude_to_Chaos_Kill_4.mp3?efcec",
+      "bytes": 44013,
+      "sha256": "489e209ffc81bb538e60cc39d237e7979d62082bd9b468a48f54595dc984d8de"
+    },
+    {
+      "file": "assets/Prelude_to_Chaos_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Prelude_to_Chaos_Kill_5.mp3?efcec",
+      "bytes": 100699,
+      "sha256": "4265d9140dcc53fff8710531c752f8efa68a0adac95a0d5c1d6b7010b15c277d"
+    },
+    {
+      "file": "assets/Prelude_to_Chaos_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Prelude_to_Chaos_Kill_Banner.png/150px-Prelude_to_Chaos_Kill_Banner.png?2b426",
+      "bytes": 13044,
+      "sha256": "13c82ccc670ddbac8ae2cb378f7e21cad0a290912024a0dadb0d5d5c1e8980f2"
+    },
+    {
+      "file": "assets/Base_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Base_Kill_1.mp3?a979a",
+      "bytes": 44013,
+      "sha256": "6846bca7dc3c08f9d5b2356c0e3514c6ce889d5b5c33dbf0632b02c74bb1dfc9"
+    },
+    {
+      "file": "assets/Base_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Base_Kill_2.mp3?406a3",
+      "bytes": 44013,
+      "sha256": "097aba680856e967f6026d45f51fca766fbccd76d7bfe86b2babf56ea532c891"
+    },
+    {
+      "file": "assets/Base_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Base_Kill_3.mp3?0019b",
+      "bytes": 44013,
+      "sha256": "1d10a33cbbdd4e45431ef0788fa583e8a39786bf6bef644137f281a0b2bb0267"
+    },
+    {
+      "file": "assets/Base_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Base_Kill_4.mp3?9cc39",
+      "bytes": 44013,
+      "sha256": "1a4d1c6b6dc887728ae669c13d87971532e32e560fe8f31fdcf0be8502f0fa37"
+    },
+    {
+      "file": "assets/Base_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Base_Kill_5.mp3?46037",
+      "bytes": 87168,
+      "sha256": "754ea9c4007a5c70a93efa8bef0417391eedfe64190fd052d6109573201ffb6a"
+    },
+    {
+      "file": "assets/Base_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Base_Kill_Banner.png/150px-Base_Kill_Banner.png?0f450",
+      "bytes": 18471,
+      "sha256": "17c6ffa443c7c2c677db11b4551e68f41f1941dbd2ef1fee54c201e4d1221b2f"
+    },
+    {
+      "file": "assets/Ion_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Ion_Kill_Banner.png/150px-Ion_Kill_Banner.png?4a914",
+      "bytes": 21560,
+      "sha256": "7003d262adff9c60c5160deb86ad9fdc1eb1711f593ada948b510f9ade7f48d5"
+    },
+    {
+      "file": "assets/Ion_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Ion_Kill_1.mp3?a0f65",
+      "bytes": 41819,
+      "sha256": "7aa1b307cb88e6819eb1879cbd1902f89d897d43f54c116411cbdccbbb364666"
+    },
+    {
+      "file": "assets/Ion_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Ion_Kill_2.mp3?a0f65",
+      "bytes": 41819,
+      "sha256": "a25f2964f5f0e2dc0f782c31f1c5007824ed78d3ce3add8c0c39a8c101778be4"
+    },
+    {
+      "file": "assets/Ion_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Ion_Kill_3.mp3?a0f65",
+      "bytes": 41453,
+      "sha256": "8ad985b0f3df5ac1afe1d2ed1fc80ca461bfda4eebebb12284466cdaaa04b689"
+    },
+    {
+      "file": "assets/Ion_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Ion_Kill_4.mp3?a0f65",
+      "bytes": 41088,
+      "sha256": "d67d3e04c72298ca5e5bff527ea6191b35defd9645357fbacc4e129d9ea1e494"
+    },
+    {
+      "file": "assets/Ion_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Ion_Kill_5.mp3?a0f65",
+      "bytes": 106185,
+      "sha256": "b20513928de84899048dad568c02bafda2ba106d6937b91bfed83243dbf50b09"
+    },
+    {
+      "file": "assets/Glitchpop_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Glitchpop_Kill_Banner.png/150px-Glitchpop_Kill_Banner.png?4a914",
+      "bytes": 15077,
+      "sha256": "daad19206f0eaf0b882fc305144cc910d5ebf070452eabf54ee38c9e7b2b2e92"
+    },
+    {
+      "file": "assets/Glitchpop_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Glitchpop_Kill_1.mp3?24454",
+      "bytes": 44013,
+      "sha256": "46990013fdba041fea67ed632749e02f371fb9a8028e7e816baea2a9fdf272f3"
+    },
+    {
+      "file": "assets/Glitchpop_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Glitchpop_Kill_2.mp3?a0f65",
+      "bytes": 44013,
+      "sha256": "c7353e4e3d6501fa4c66dfdd598b84c5ce7a10d687a52208bb51f49766f6358f"
+    },
+    {
+      "file": "assets/Glitchpop_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Glitchpop_Kill_3.mp3?24454",
+      "bytes": 44013,
+      "sha256": "585c85917c3689f6507f49a29dfe98049d52c5c50a8a990e92cead483869858e"
+    },
+    {
+      "file": "assets/Glitchpop_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Glitchpop_Kill_4.mp3?24454",
+      "bytes": 44013,
+      "sha256": "4ec230941ee8746e54994d4ccc4121af46cf5196234ec3e2c2a9864260fa9279"
+    },
+    {
+      "file": "assets/Glitchpop_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Glitchpop_Kill_5.mp3?a0f65",
+      "bytes": 87168,
+      "sha256": "a3b0f81d69c4aea684b9c6776e717ee6bc7cd034bd4ac38a842f0e0053be4cab"
+    },
+    {
+      "file": "assets/Recon_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Recon_Kill_Banner.png/150px-Recon_Kill_Banner.png?120a2",
+      "bytes": 18351,
+      "sha256": "c92ff3aab7f457f59862ce2c7d181e1c3c09aae17b51e74939273795da3ce825"
+    },
+    {
+      "file": "assets/Recon_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Recon_Kill_1.mp3?12c68",
+      "bytes": 55716,
+      "sha256": "ca266d379944f3b8ea6e5df331464bc2d1a187efd933e697a091ce82a8c04328"
+    },
+    {
+      "file": "assets/Recon_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Recon_Kill_2.mp3?12c68",
+      "bytes": 54619,
+      "sha256": "5f4ef88d26ef5c04bf34ad5b238312654192df4d316ca1ed14a9ed2f0f56ed4d"
+    },
+    {
+      "file": "assets/Recon_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Recon_Kill_3.mp3?12c68",
+      "bytes": 50231,
+      "sha256": "d994c8b58af1d24cb123c005c3df5779658025f548d2f65292090bd516703183"
+    },
+    {
+      "file": "assets/Recon_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Recon_Kill_4.mp3?12c68",
+      "bytes": 52059,
+      "sha256": "72bfbc06c4931925f26963a4f420d65371c74af8cf5869d9500ee905f394a2ad"
+    },
+    {
+      "file": "assets/Recon_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Recon_Kill_5.mp3?12c68",
+      "bytes": 71076,
+      "sha256": "f6fc77175c0c67f62921849b4389e75b7d469e78f4f11cd6bcc67c377c9ee3aa"
+    },
+    {
+      "file": "assets/Spectrum_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Spectrum_Kill_Banner.png/150px-Spectrum_Kill_Banner.png?ac319",
+      "bytes": 12815,
+      "sha256": "9e32ff4293f74b9781e70b10bec4ddde0ac534de280e27abbdfa6f82d74dc10d"
+    },
+    {
+      "file": "assets/Spectrum_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Spectrum_Kill_1.mp3?25f34",
+      "bytes": 44013,
+      "sha256": "8fe23c634ac26922da5d6bf5942ef6daae018f48be73a9273cb29126de857e3d"
+    },
+    {
+      "file": "assets/Spectrum_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Spectrum_Kill_2.mp3?25f34",
+      "bytes": 44013,
+      "sha256": "c779ef7d1a09493f801d2bce533758519ab7dfc88b881bc3ac0d05dc69d86b74"
+    },
+    {
+      "file": "assets/Spectrum_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Spectrum_Kill_3.mp3?25f34",
+      "bytes": 44013,
+      "sha256": "40135ebc81400469c54a2da418d4f21359f6e7b7b97b94a6cab319ff35048baf"
+    },
+    {
+      "file": "assets/Spectrum_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Spectrum_Kill_4.mp3?25f34",
+      "bytes": 44013,
+      "sha256": "9de95b96feb67159e8fec3fbb297bc8ce9aaa15ec4bd655102a8c20a32703799"
+    },
+    {
+      "file": "assets/Spectrum_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Spectrum_Kill_5.mp3?25f34",
+      "bytes": 87168,
+      "sha256": "9b2b34db035ac573c3265f15ffb8918835a5e3fc68cf76f6ff7da36011f9c4e5"
+    },
+    {
+      "file": "assets/Gaia's_Vengeance_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Gaia%27s_Vengeance_Kill_Banner.png/150px-Gaia%27s_Vengeance_Kill_Banner.png?5efc2",
+      "bytes": 13618,
+      "sha256": "5cc002efbfb576d86ed03579a56a68f96c4a1eeca5ee37fc6dea0a402e618b38"
+    },
+    {
+      "file": "assets/Gaia's_Vengeance_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Gaia%27s_Vengeance_Kill_1.mp3?24454",
+      "bytes": 57911,
+      "sha256": "b9d7527fb4e09e19aca6cfdbba4d26b7fa6e47a8b5abda01dcb8b7991132c736"
+    },
+    {
+      "file": "assets/Gaia's_Vengeance_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Gaia%27s_Vengeance_Kill_2.mp3?24454",
+      "bytes": 57911,
+      "sha256": "11d0b75f6ee99bfdd1319e3c7475d84ba488937a1a372beb8542bc34b381b6a6"
+    },
+    {
+      "file": "assets/Gaia's_Vengeance_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Gaia%27s_Vengeance_Kill_3.mp3?24454",
+      "bytes": 57911,
+      "sha256": "2a575cc5dacfe894ed38b820ba2379a0d58bf7a62fcc2971bdb3cc4c474ab4bc"
+    },
+    {
+      "file": "assets/Gaia's_Vengeance_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Gaia%27s_Vengeance_Kill_4.mp3?24454",
+      "bytes": 57911,
+      "sha256": "ce754fde29c48ed30506d56bb4814753caee12b7b72a5a6312ada99a302971c9"
+    },
+    {
+      "file": "assets/Gaia's_Vengeance_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Gaia%27s_Vengeance_Kill_5.mp3?24454",
+      "bytes": 106551,
+      "sha256": "e20de79851e0a2b81828c0cdb9e778558f21e629b2f269ee39632b868f912c57"
+    },
+    {
+      "file": "assets/Sovereign_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Sovereign_Kill_Banner.png/150px-Sovereign_Kill_Banner.png?4d177",
+      "bytes": 14086,
+      "sha256": "9d4fe417c7c818fb93efb8e0a3dba21da8784e90572a0b1823fdda9258c44e45"
+    },
+    {
+      "file": "assets/Sovereign_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Sovereign_Kill_1.mp3?25f34",
+      "bytes": 43648,
+      "sha256": "42b51a0f9df9ccf552a93b31b1c475b9e32ad13cceb884772168597046a1d8e1"
+    },
+    {
+      "file": "assets/Sovereign_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Sovereign_Kill_2.mp3?25f34",
+      "bytes": 44013,
+      "sha256": "6c4fba00afd743ececec8e5f22d6b5f099ca683b9fbcc7896c21c80384df2d50"
+    },
+    {
+      "file": "assets/Sovereign_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Sovereign_Kill_3.mp3?25f34",
+      "bytes": 44013,
+      "sha256": "a87cbcc9fb15f68aa93595605de9e83c933a579bf200ed2792dbaa8c6e4b76de"
+    },
+    {
+      "file": "assets/Sovereign_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Sovereign_Kill_4.mp3?25f34",
+      "bytes": 44013,
+      "sha256": "2017159925e31c15e176df73800acd825985b7b1fc32e09fb2b5d327940dad46"
+    },
+    {
+      "file": "assets/Sovereign_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Sovereign_Kill_5.mp3?25f34",
+      "bytes": 87168,
+      "sha256": "a6d152900fdcd97c1d40f65fb8591f643e1cdfec12aefd44f09ad0a36425c5a4"
+    },
+    {
+      "file": "assets/Forsaken_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Forsaken_Kill_Banner.png/150px-Forsaken_Kill_Banner.png?8960f",
+      "bytes": 15665,
+      "sha256": "a3dc29a2404bfcc280461f5fa9dfd3161a089c49a79431556e2e264a0ba8eab0"
+    },
+    {
+      "file": "assets/Forsaken_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Forsaken_Kill_1.mp3?24454",
+      "bytes": 39259,
+      "sha256": "3a7aa2706d2e88e72fde34e490627ce8b5fa85a23ed39ca5bcc4f1c62bc76a2b"
+    },
+    {
+      "file": "assets/Forsaken_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Forsaken_Kill_2.mp3?24454",
+      "bytes": 40722,
+      "sha256": "18a39b4440e7b11a0dfb108d424223bf6b5a377f00d4e43f699ba63f71631380"
+    },
+    {
+      "file": "assets/Forsaken_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Forsaken_Kill_3.mp3?24454",
+      "bytes": 42551,
+      "sha256": "13b68c4fe1da7aa19d150b38a9040ce5554c26694fbf49196d9d20a38a25aa5b"
+    },
+    {
+      "file": "assets/Forsaken_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Forsaken_Kill_4.mp3?24454",
+      "bytes": 43282,
+      "sha256": "660746393f8ac6f0a3f8b82310b46c45bfd2d1ad6d4d9f9e8bbe6e2af2cb8f2a"
+    },
+    {
+      "file": "assets/Forsaken_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Forsaken_Kill_5.mp3?24454",
+      "bytes": 82779,
+      "sha256": "957ea83cf5dac935dce73cc704b53321c533bb23149668735a787dfc25ec25de"
+    },
+    {
+      "file": "assets/Elderflame_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Elderflame_Kill_Banner.png/150px-Elderflame_Kill_Banner.png?4a914",
+      "bytes": 12719,
+      "sha256": "705133e5d4e87e0425fe13c2c1fabb97768d63a824a61195b2833c17fa8459dc"
+    },
+    {
+      "file": "assets/Elderflame_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Elderflame_Kill_1.mp3?46194",
+      "bytes": 44013,
+      "sha256": "ad1b034c7a84c359538311d2a1164f39223f932e6727f855ec556bf1eec61d15"
+    },
+    {
+      "file": "assets/Elderflame_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Elderflame_Kill_2.mp3?46194",
+      "bytes": 44013,
+      "sha256": "24177cd9e4e4120e2b96dfbe7bbd0a555faeb4b84d0fe74cf7f784dac7db0eb6"
+    },
+    {
+      "file": "assets/Elderflame_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Elderflame_Kill_3.mp3?24454",
+      "bytes": 44013,
+      "sha256": "d3c732c28e8d66f62adcca602fda3aa6157d9f4c85355797f5ded2bd6ef40296"
+    },
+    {
+      "file": "assets/Elderflame_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Elderflame_Kill_4.mp3?24454",
+      "bytes": 44013,
+      "sha256": "b320b181c214658190ebbfa4859f6fab162ec90bf707cf7f4842873ec2e54ee9"
+    },
+    {
+      "file": "assets/Elderflame_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Elderflame_Kill_5.mp3?24454",
+      "bytes": 88265,
+      "sha256": "99ce233d5f5bbab8d43cfaed3c4f8231b45d2db6ea060b5de616123e217cde5d"
+    },
+    {
+      "file": "assets/Singularity_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Singularity_Kill_Banner.png/150px-Singularity_Kill_Banner.png?7e05d",
+      "bytes": 13501,
+      "sha256": "e7ab420f8fb1cbbd40c11645ada0f335b7926a9456b93d90296d9c6ac87cb3b0"
+    },
+    {
+      "file": "assets/Singularity_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Singularity_Kill_1.mp3?c8dfb",
+      "bytes": 44013,
+      "sha256": "f40803720584c722d02cb297c853f775b000747ba650eb299c43adcc3ac7f8dd"
+    },
+    {
+      "file": "assets/Singularity_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Singularity_Kill_2.mp3?c8dfb",
+      "bytes": 44745,
+      "sha256": "732948c6873a9ef324a1f6d40cb8b73974e8f82347ff67e9febbc1f455773a9f"
+    },
+    {
+      "file": "assets/Singularity_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Singularity_Kill_3.mp3?c8dfb",
+      "bytes": 44013,
+      "sha256": "7d92e80319b265bdcb05f1774108c1c9c64b7a074df1980eebd84bf5d88bde0c"
+    },
+    {
+      "file": "assets/Singularity_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Singularity_Kill_4.mp3?c8dfb",
+      "bytes": 44013,
+      "sha256": "8d597e97f00d492ec9a6744709387887279d72d3afa6d0996ca6b69c112231d5"
+    },
+    {
+      "file": "assets/Singularity_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Singularity_Kill_5.mp3?25f34",
+      "bytes": 88265,
+      "sha256": "7174dfe9798175910aa9c99f730b1f5e867b2ce02fb4a5a4f45fd3ac68da00ac"
+    },
+    {
+      "file": "assets/Sentinels_of_Light_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Sentinels_of_Light_Kill_Banner.png/150px-Sentinels_of_Light_Kill_Banner.png?ef437",
+      "bytes": 14661,
+      "sha256": "4cd9be1d4c68bd1acb7e857dc859b731aff56751cf4a207cbf6915443a40884b"
+    },
+    {
+      "file": "assets/Sentinels_of_Light_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Sentinels_of_Light_Kill_1.mp3?c8dfb",
+      "bytes": 44013,
+      "sha256": "1fcbd7c364c3135132d91777d0c51832d1dc2af5f0882534c696b34a50cc725e"
+    },
+    {
+      "file": "assets/Sentinels_of_Light_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Sentinels_of_Light_Kill_2.mp3?c8dfb",
+      "bytes": 44013,
+      "sha256": "10d09f3276cfb1fa739c33bdddb36a63e9c9b5cbda693de04f8cf643fa53f52c"
+    },
+    {
+      "file": "assets/Sentinels_of_Light_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Sentinels_of_Light_Kill_3.mp3?c8dfb",
+      "bytes": 44013,
+      "sha256": "b9fb6bc6383b8aa1c012d768c30c95037de2ececb919b0b4091a40b40a8c7f6d"
+    },
+    {
+      "file": "assets/Sentinels_of_Light_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Sentinels_of_Light_Kill_4.mp3?c8dfb",
+      "bytes": 44379,
+      "sha256": "2fbb38eeb0bc1b64b0d0c8fe0da282c3898e5deb0020c60f3baae8a70c208b7f"
+    },
+    {
+      "file": "assets/Sentinels_of_Light_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Sentinels_of_Light_Kill_5.mp3?c8dfb",
+      "bytes": 87168,
+      "sha256": "e64e4f9486072db1ab6689161642d85746bcb6a44bdb5a0b5e060e0bfa8fbf1e"
+    },
+    {
+      "file": "assets/Ruination_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Ruination_Kill_Banner.png/150px-Ruination_Kill_Banner.png?4a914",
+      "bytes": 18714,
+      "sha256": "6f69bc8019ba4a334fc3643809bae5e5fa382835d94ab1d150f17446d4dda76c"
+    },
+    {
+      "file": "assets/Ruination_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Ruination_Kill_1.mp3?12c68",
+      "bytes": 33408,
+      "sha256": "1143e804ee13578fe9004d1e4a76a728c253417653c36ebae4b585fb4792048a"
+    },
+    {
+      "file": "assets/Ruination_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Ruination_Kill_2.mp3?12c68",
+      "bytes": 36699,
+      "sha256": "0efcf827c2da30e401c129a01c2009d298ae29bedffb3aa8e8b8b08bd6c84d9e"
+    },
+    {
+      "file": "assets/Ruination_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Ruination_Kill_3.mp3?12c68",
+      "bytes": 39625,
+      "sha256": "6478b7c6023deb7d9b91ae9874ed77fe1c484e08fde2db3759191ee36294feb7"
+    },
+    {
+      "file": "assets/Ruination_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Ruination_Kill_4.mp3?c8dfb",
+      "bytes": 41088,
+      "sha256": "ace982d217cb54bcdfeeddb252621bb8d2387e8cf664c1424098f57a9e86ea52"
+    },
+    {
+      "file": "assets/Ruination_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Ruination_Kill_5.mp3?c8dfb",
+      "bytes": 90459,
+      "sha256": "662c44e6db70d352378da9c7984816ba470d97013efcb5766c497fa0867f726a"
+    },
+    {
+      "file": "assets/ChronoVoid_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/ChronoVoid_Kill_Banner.png/150px-ChronoVoid_Kill_Banner.png?fb390",
+      "bytes": 14505,
+      "sha256": "3ac54e6121a55dc7ab93e1d937032f8f45795d15858e3a039406ca0be1333867"
+    },
+    {
+      "file": "assets/ChronoVoid_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/ChronoVoid_Kill_1.mp3?24c8e",
+      "bytes": 44013,
+      "sha256": "3669281ab66e96aa62ab54667d5b35a3d582baa1d1bd2b68ee7d4379c3ddce05"
+    },
+    {
+      "file": "assets/ChronoVoid_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/ChronoVoid_Kill_2.mp3?a735e",
+      "bytes": 44013,
+      "sha256": "dbc49b13febe5a115ab8a4dce2439ba2f778b9dbe924bb71ccc45b02b156ce20"
+    },
+    {
+      "file": "assets/ChronoVoid_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/ChronoVoid_Kill_3.mp3?a735e",
+      "bytes": 44013,
+      "sha256": "4410704510e17bc74e51217e9a5a192f19b78a61c7cbe11cc9afd7403ebc2b4b"
+    },
+    {
+      "file": "assets/ChronoVoid_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/ChronoVoid_Kill_4.mp3?a735e",
+      "bytes": 44013,
+      "sha256": "3d0183f8a506a5c511ca0f2d567532b6d108091a1d53d1b2a5479420430d08c5"
+    },
+    {
+      "file": "assets/ChronoVoid_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/ChronoVoid_Kill_5.mp3?cf593",
+      "bytes": 87168,
+      "sha256": "419695853c833106bcc331b14b4def8b5cc45222bf957ea39e85002834ed45db"
+    },
+    {
+      "file": "assets/Neptune_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Neptune_Kill_Banner.png/150px-Neptune_Kill_Banner.png?e8bdf",
+      "bytes": 13752,
+      "sha256": "c11d3a3a57c36c81df8bf0aab788de5161f29cb2697953eb22ee8540baa80d00"
+    },
+    {
+      "file": "assets/Neptune_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Neptune_Kill_1.mp3?a9af2",
+      "bytes": 44745,
+      "sha256": "d00a4b58881cd06075d9b222f45d5086d67cd02cc9f77c1d8a157d9a3a0d2fe8"
+    },
+    {
+      "file": "assets/Neptune_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Neptune_Kill_2.mp3?e659c",
+      "bytes": 44745,
+      "sha256": "6a4795bc53c55be3834a70f4a8d1b08f4fa14aea9587faaf1241929a768b597a"
+    },
+    {
+      "file": "assets/Neptune_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Neptune_Kill_3.mp3?e659c",
+      "bytes": 37431,
+      "sha256": "145a146c361ef0a1c9b7305a5077579a83448e7f814cc675824da1cb7dde3293"
+    },
+    {
+      "file": "assets/Neptune_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Neptune_Kill_4.mp3?e659c",
+      "bytes": 37431,
+      "sha256": "ca65ec73eb1fb581db0314e8dc634c2b71050c9a1780fd7b5219333e3682e2aa"
+    },
+    {
+      "file": "assets/Neptune_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Neptune_Kill_5.mp3?e659c",
+      "bytes": 87899,
+      "sha256": "35beb3da13df13df16291c47327db62aee7883809d25f0b7000a756dc260c7a6"
+    },
+    {
+      "file": "assets/Magepunk_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Magepunk_Kill_Banner.png/150px-Magepunk_Kill_Banner.png?adbf4",
+      "bytes": 18557,
+      "sha256": "b7c1d0c349b076d829a97e20e99c20c477b3d7c65508e11e5e7dc986466070b7"
+    },
+    {
+      "file": "assets/Magepunk_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Magepunk_Kill_1.mp3?a0f65",
+      "bytes": 37431,
+      "sha256": "dafc8e34eceea0f277ab4b1aae50763576d5f398a2747433ab68f0722fe059a1"
+    },
+    {
+      "file": "assets/Magepunk_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Magepunk_Kill_2.mp3?a0f65",
+      "bytes": 35236,
+      "sha256": "054b3a3e2106ffc8fb716679012233b1876942e758c798c19471bc0bff2ae39e"
+    },
+    {
+      "file": "assets/Magepunk_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Magepunk_Kill_3.mp3?a0f65",
+      "bytes": 34505,
+      "sha256": "a0c854e27cb4e3025737f86fee1aa578bdcdc147011d75b3f0e909ba98683216"
+    },
+    {
+      "file": "assets/Magepunk_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Magepunk_Kill_4.mp3?a0f65",
+      "bytes": 39991,
+      "sha256": "56e57efb57fd9be26aca3cd38b7c196b7dbd1bd1d22f1e8c4c73d904f5dda38d"
+    },
+    {
+      "file": "assets/Magepunk_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Magepunk_Kill_5.mp3?a0f65",
+      "bytes": 71442,
+      "sha256": "9c95c325ada72fe8c1427d80c3bc69b91ef14e1d9552ef1eeb86f1689c62dcf3"
+    },
+    {
+      "file": "assets/Champions_2021_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Champions_2021_Kill_Banner.png/150px-Champions_2021_Kill_Banner.png?147be",
+      "bytes": 21618,
+      "sha256": "d7f46e94dac80d4130c5ec55da786695c1a611ec4cbdb21856ad3b60964297ac"
+    },
+    {
+      "file": "assets/Champions_2021_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Champions_2021_Kill_1.mp3?46194",
+      "bytes": 53522,
+      "sha256": "93cae73e9313fe5f7783d426a05bf54c272d472039d7f77b78726ad2054204e0"
+    },
+    {
+      "file": "assets/Champions_2021_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Champions_2021_Kill_2.mp3?46194",
+      "bytes": 42916,
+      "sha256": "857563506e620548c7d0336b75b18ae10b8e61c4ab0cbd34a3909020c679b45a"
+    },
+    {
+      "file": "assets/Champions_2021_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Champions_2021_Kill_3.mp3?46194",
+      "bytes": 44013,
+      "sha256": "98c387531ebeb26830137a64bc895c3ffa331567d5cd761fd17262d3b183ec02"
+    },
+    {
+      "file": "assets/Champions_2021_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Champions_2021_Kill_4.mp3?46194",
+      "bytes": 44379,
+      "sha256": "54edf1f6af4e03d1c40ac928b8b54d795a61f50f50329f55cfc479cc9a6bfedd"
+    },
+    {
+      "file": "assets/Champions_2021_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Champions_2021_Kill_5.mp3?24454",
+      "bytes": 93385,
+      "sha256": "d37eb6127219b534c93ad59a3d9a4756ea0c698e63e0d863d2e6d366b2232794"
+    },
+    {
+      "file": "assets/Champions_2024_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Champions_2024_Kill_Banner.png/150px-Champions_2024_Kill_Banner.png?fdeaa",
+      "bytes": 8945,
+      "sha256": "bbad707c58bb944921d59dee4785e7271c6b661cd90d45d81a2d877df4960e36"
+    },
+    {
+      "file": "assets/Champions_2024_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Champions_2024_Kill_1.mp3?74f24",
+      "bytes": 75276,
+      "sha256": "86c8eba7e65b7a98050cb5107192ffc4fa7c4cbffaad2d793a21163e4035c828"
+    },
+    {
+      "file": "assets/Champions_2024_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Champions_2024_Kill_2.mp3?caf2d",
+      "bytes": 75276,
+      "sha256": "22dcf1ea2fdb1e831cba341d83a19ae7ed829e78c43cc65706b513cca37e1015"
+    },
+    {
+      "file": "assets/Champions_2024_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Champions_2024_Kill_3.mp3?a1c4b",
+      "bytes": 75276,
+      "sha256": "11c842dc4f11b56d98d1dab2d33241ddf49ac81436ffc1dd513675643ff66a23"
+    },
+    {
+      "file": "assets/Champions_2024_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Champions_2024_Kill_4.mp3?091b1",
+      "bytes": 75276,
+      "sha256": "4afdf60b87c2f1ace8600b7e3e9506e0902e054cbb3a2c50d19cb8a02fb6c65d"
+    },
+    {
+      "file": "assets/Champions_2024_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Champions_2024_Kill_5.mp3?3c16d",
+      "bytes": 149255,
+      "sha256": "4ba9d464d7406fdad9e41fec366630f8e992ddf1088529f4b006c2e7f0f06a1f"
+    },
+    {
+      "file": "assets/Evori_Dreamwings_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Evori_Dreamwings_Kill_Banner_Blue.png/150px-Evori_Dreamwings_Kill_Banner_Blue.png?39f36",
+      "bytes": 21492,
+      "sha256": "cd6e84ee71e0bbe1b7f4738a09cecfff430e28540fe18e75a82dba46f6c0b6b8"
+    },
+    {
+      "file": "assets/Evori_Dreamwings_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Evori_Dreamwings_Kill_1.mp3?82d21",
+      "bytes": 77157,
+      "sha256": "a5ce6d020636698d66ee8b612e603ef8f1bc799cddd12c59d59daf4d28c4f987"
+    },
+    {
+      "file": "assets/Evori_Dreamwings_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Evori_Dreamwings_Kill_2.mp3?60b06",
+      "bytes": 77157,
+      "sha256": "df6e52b064cb52dfae80b72c4ebcfd0133ed2bfe59256486091ab3ff21a570f4"
+    },
+    {
+      "file": "assets/Evori_Dreamwings_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Evori_Dreamwings_Kill_3.mp3?7e4dd",
+      "bytes": 77157,
+      "sha256": "956f5a205ea7f7f6d6dca36745453b608585563c98abf1313d41cca990d4a4db"
+    },
+    {
+      "file": "assets/Evori_Dreamwings_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Evori_Dreamwings_Kill_4.mp3?71b29",
+      "bytes": 77157,
+      "sha256": "e22ef78496c2524d734a1e01eceef354d20747799db534bef74b50cb261b0643"
+    },
+    {
+      "file": "assets/Evori_Dreamwings_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Evori_Dreamwings_Kill_5.mp3?f2077",
+      "bytes": 132955,
+      "sha256": "5aa3ae08b494a2c7130f51322c492526e281fac98562d253134932a720534cb1"
+    },
+    {
+      "file": "assets/Mystbloom_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Mystbloom_Kill_Banner.png/150px-Mystbloom_Kill_Banner.png?483bf",
+      "bytes": 13909,
+      "sha256": "be63fd737e5ad3279ae61a823db5c2bdb78c0d71276abbf5320f233ba46611e2"
+    },
+    {
+      "file": "assets/Mystbloom_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Mystbloom_Kill_1.mp3?de93e",
+      "bytes": 78381,
+      "sha256": "1c8a59ad5421392181ed18a7bd43d47785bb3092f984fc850a810942c2717585"
+    },
+    {
+      "file": "assets/Mystbloom_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Mystbloom_Kill_2.mp3?cae48",
+      "bytes": 78381,
+      "sha256": "8d6db1e19e8e4131b6d9a18fa3033688291af14351d7492c80f1611d53bb8685"
+    },
+    {
+      "file": "assets/Mystbloom_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Mystbloom_Kill_3.mp3?4573c",
+      "bytes": 78381,
+      "sha256": "93c8a8e5c916af697a6e1154471f27fad5143e872f20a6d7f3f789ed5a419742"
+    },
+    {
+      "file": "assets/Mystbloom_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Mystbloom_Kill_4.mp3?62b06",
+      "bytes": 76653,
+      "sha256": "77e616c10dd8755b109c27d1cb62fc587bb89426fbae7a6857f22f9dbf06bc70"
+    },
+    {
+      "file": "assets/Mystbloom_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Mystbloom_Kill_5.mp3?97d30",
+      "bytes": 150381,
+      "sha256": "e6415c736e6f374095b53983c0bb7cbd6e535022e47dcd90f7206815400a632a"
+    },
+    {
+      "file": "assets/Neo_Frontier_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Neo_Frontier_Kill_Banner.png/150px-Neo_Frontier_Kill_Banner.png?18def",
+      "bytes": 15247,
+      "sha256": "2651585cfec4e019a0475f22b83d16ea19e5c7c9f4fc5bc8a96806e2058bb8a8"
+    },
+    {
+      "file": "assets/Neo_Frontier_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Neo_Frontier_Kill_1.mp3?05dfb",
+      "bytes": 75276,
+      "sha256": "f6b9eb06d5e6266d1cd52698339c29d868a632d134de4d12d9dabc482e740c9c"
+    },
+    {
+      "file": "assets/Neo_Frontier_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Neo_Frontier_Kill_2.mp3?21018",
+      "bytes": 75276,
+      "sha256": "d239e63bb1a83ca85b47f664813808a2c14ab761cdaaa06c22764c63dbb1b14c"
+    },
+    {
+      "file": "assets/Neo_Frontier_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Neo_Frontier_Kill_3.mp3?21018",
+      "bytes": 75276,
+      "sha256": "f2c7bb9cdba6733b083b54ead847d3d8a7ab0224ee08b1efde609c16ce5daaa3"
+    },
+    {
+      "file": "assets/Neo_Frontier_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Neo_Frontier_Kill_4.mp3?21018",
+      "bytes": 75276,
+      "sha256": "99b2361c8c7f87c067f42df62efe824a8249841962369bbc34b3142c5ca29b21"
+    },
+    {
+      "file": "assets/Neo_Frontier_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Neo_Frontier_Kill_5.mp3?21018",
+      "bytes": 146747,
+      "sha256": "b8f6b19e5fb61b54b589c44132def8cd6c24b51c5e587887c7794e782ba66887"
+    },
+    {
+      "file": "assets/Origin_banner.png",
+      "url": "https://wiki.playvalorant.com/en-us/images/thumb/Origin_Kill_Banner.png/150px-Origin_Kill_Banner.png?2cb5d",
+      "bytes": 13876,
+      "sha256": "db1ece92159374cca89d69293330c27ddf1ac4015c68d479dbefbede2bef3a70"
+    },
+    {
+      "file": "assets/Origin_Kill_1.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Origin_Kill_1.mp3?94d2a",
+      "bytes": 31945,
+      "sha256": "144bd21320affa08034016cc998f07cd39e492e60612bb10d349f3654cf4c7c3"
+    },
+    {
+      "file": "assets/Origin_Kill_2.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Origin_Kill_2.mp3?94d2a",
+      "bytes": 30848,
+      "sha256": "aadd059ccba5a4cecd92468ae4426319de385bc6c424caffd2543743f43593da"
+    },
+    {
+      "file": "assets/Origin_Kill_3.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Origin_Kill_3.mp3?94d2a",
+      "bytes": 35968,
+      "sha256": "1548025b5deb7178e6c4c6f979fc63f291d87a1c1d40daab763d3ea093cff78f"
+    },
+    {
+      "file": "assets/Origin_Kill_4.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Origin_Kill_4.mp3?94d2a",
+      "bytes": 34871,
+      "sha256": "063924d41210b43b598f424368a63c714a0e4f9ce420c7bc40df4bcb969aadce"
+    },
+    {
+      "file": "assets/Origin_Kill_5.mp3",
+      "url": "https://wiki.playvalorant.com/en-us/images/Origin_Kill_5.mp3?94d2a",
+      "bytes": 61568,
+      "sha256": "8dd4280ab9b59332af3080fdf75c30d76c9ee0eb58186a6db0607799174d0039"
+    }
+  ]
+}

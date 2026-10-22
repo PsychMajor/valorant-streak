@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "collection": "reaver",
+  "window_seconds": 30,
+  "count_hard": true,
+  "volume": 50,
+  "popup_seconds": 1.8,
+  "show_countdown": true,
+  "position": "bottom_center",
+  "timing_mode": "accelerating",
+  "shrink_percent": 20,
+  "minimum_window_percent": 25
+}
